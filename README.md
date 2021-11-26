@@ -1,4 +1,15 @@
 # Expense Tracker 💳💲
-* ### Great boilerplate code for React
-* ### Modern UI design
-* ### Good folder structure
+
+## Checklist 📃
+* ✅ Great boilerplate code for React
+* ✅ Good folder structure
+* ✅ Modern UI design
+* ✅ Responsive design
+
+## Get started 👩‍💻
+```
+git clone https://github.com/mariazayed/react-expense-tracker.git
+cd react-expense-tracker
+npm install
+npm start
+```
