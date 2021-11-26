@@ -13,3 +13,5 @@ cd react-expense-tracker
 npm install
 npm start
 ```
+
+![1](https://user-images.githubusercontent.com/27064594/143569439-e7959924-912b-41eb-9c7f-666135606023.PNG)
